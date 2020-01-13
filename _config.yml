@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Greetings! My name is Charles Zhou and I am a research scientist at the University of Washington (UW) Center in
   Neurobiology of Addiction, Pain, and Emotion (NAPE). In this blog, I detail my journey through the UW eScience Institute
   incubator program. Thank you for visiting!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
