@@ -21,11 +21,12 @@
 title: Charles Zhou's eScience Blog
 email: zhouzc@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "nape_tca_nn_blog" # the subpath of your site, e.g. /blog
+  Greetings! My name is Charles Zhou and I am a research scientist at the University of Washington (UW) Center in
+  Neurobiology of Addiction, Pain, and Emotion (NAPE). In this blog, I detail my journey through the UW eScience Institute
+  incubator program. Thank you for visiting!
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 # Build settings
 theme: minima
