@@ -52,7 +52,7 @@ stuberadmin@DESKTOP-3EN365M MINGW64 ~/Documents/GitHub/nape_tca_nn_blog (gh-page
 $ jekyll serve --baseurl ""
 {% endhighlight %}
 
-
+![Github repo settings - github pages link](/assets/images/github_pages_config.png)
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
