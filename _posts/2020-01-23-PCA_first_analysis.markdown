@@ -17,9 +17,9 @@ pca_xr_wrapper = wrap(PCA(n_components=3), reshapes='yx') # create PCA object an
 Xt = pca_xr_wrapper.fit_transform(xr_flatten_pix_trial.transpose()) # fit/transform estimator; transpose to apply PCA on pixels
 ```
 
-![frame_image!](/_assets/frame0_img.PNG)
+![frame_image]({{ site.url }}/assets/images/frame0_img.PNG)
 
-![PC_pixel_map]({{ site.url }}/_assets/pc_pixelmap.PNG)
+![PC_pixel_map]({{ site.url }}/assets/pc_pixelmap.PNG)
 
 ![PC_timecourse!!]({{ site.url }}/_assets/pc_timecourse.PNG)
 
