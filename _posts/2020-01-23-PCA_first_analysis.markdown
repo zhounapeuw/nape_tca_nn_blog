@@ -17,11 +17,11 @@ pca_xr_wrapper = wrap(PCA(n_components=3), reshapes='yx') # create PCA object an
 Xt = pca_xr_wrapper.fit_transform(xr_flatten_pix_trial.transpose()) # fit/transform estimator; transpose to apply PCA on pixels
 ```
 
-![frame_image]({{ site.url }}/_assets/frame0_img.PNG)
+![frame_image!](/_assets/frame0_img.PNG)
 
 ![PC_pixel_map]({{ site.url }}/_assets/pc_pixelmap.PNG)
 
-![PC_timecourse!]({{ site.url }}/_assets/pc_timecourse.PNG)
+![PC_timecourse!!]({{ site.url }}/_assets/pc_timecourse.PNG)
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
