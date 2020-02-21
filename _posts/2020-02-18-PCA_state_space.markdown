@@ -51,11 +51,11 @@ ax.add_collection3d(lc, zs=z, zdir='z')
 Here's when I project the trial-averaged activity time-series for each condition into the space. CS- trial average trace starts red (-1 seconds relative to cue onsset) then
 ends in a yellow color (3 seconds after cue oneset). The CS+ trial trace starts blue then ends green.
 
-![state_space_trial_all_avg](/nape_tca_nn_blog/images/20200218_state_space_trial_all_avg.GIF)
+![state_space_trial_all_avg](/nape_tca_nn_blog/images/20200218_state_space_trial_all_avg.gif)
 
 To see how trials across the course of the session evolve through this high-dimensional space, I averaged trials in groups of 10 across the session and plotted them into the space. Trial block is encoded by alpha.
 
-![state_space_trial_grouped](/nape_tca_nn_blog/images/20200218_state_space_trial_grouped.GIF)
+![state_space_trial_grouped](/nape_tca_nn_blog/images/20200218_state_space_trial_grouped.gif)
 
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
